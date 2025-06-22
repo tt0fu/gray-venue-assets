@@ -1,0 +1,1604 @@
+{
+    "fixtures": [
+        {
+            "id": 0,
+            "name": "Static-ParLight-R-1",
+            "channel": 249,
+            "universe": 1,
+            "fixtureDefintion": "ParLight 5CH",
+            "channelNames": [
+                "Dimmer",
+                "Red",
+                "Green",
+                "Blue",
+                "Strobe"
+            ],
+            "position": {
+                "x": 10.0,
+                "y": 0.699999988079071,
+                "z": 6.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 74.99999237060547
+            },
+            "invertPan": false,
+            "invertTilt": false,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Laser-R-3",
+            "channel": 419,
+            "universe": 1,
+            "fixtureDefintion": "Laser 13CH",
+            "channelNames": [
+                "Pan",
+                "Tilt",
+                "Length",
+                "Width",
+                "Flatness",
+                "Beam Count",
+                "Spin Speed",
+                "Red",
+                "Green",
+                "Blue",
+                "Dimmer",
+                "Beam Thickness",
+                "Movement Speed"
+            ],
+            "position": {
+                "x": 3.0,
+                "y": 5.0,
+                "z": 2.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "invertPan": false,
+            "invertTilt": false,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Mover-Spotlight-7-R",
+            "channel": 183,
+            "universe": 1,
+            "fixtureDefintion": "SpotLight 13CH",
+            "channelNames": [
+                "Pan",
+                "Fine Pan",
+                "Tilt",
+                "Fine Tilt",
+                "Zoom",
+                "Dimmer",
+                "Strobe",
+                "Red",
+                "Green",
+                "Blue",
+                "GOBO Spin",
+                "GOBO Select",
+                "Movement Speed"
+            ],
+            "position": {
+                "x": 5.0,
+                "y": 5.0,
+                "z": -6.0
+            },
+            "rotation": {
+                "x": 90.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "invertPan": false,
+            "invertTilt": true,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Mover-Spotlight-4-L",
+            "channel": 40,
+            "universe": 1,
+            "fixtureDefintion": "SpotLight 13CH",
+            "channelNames": [
+                "Pan",
+                "Fine Pan",
+                "Tilt",
+                "Fine Tilt",
+                "Zoom",
+                "Dimmer",
+                "Strobe",
+                "Red",
+                "Green",
+                "Blue",
+                "GOBO Spin",
+                "GOBO Select",
+                "Movement Speed"
+            ],
+            "position": {
+                "x": -5.0,
+                "y": 5.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 90.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "invertPan": false,
+            "invertTilt": true,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Mover-Spotlight-7-L",
+            "channel": 79,
+            "universe": 1,
+            "fixtureDefintion": "SpotLight 13CH",
+            "channelNames": [
+                "Pan",
+                "Fine Pan",
+                "Tilt",
+                "Fine Tilt",
+                "Zoom",
+                "Dimmer",
+                "Strobe",
+                "Red",
+                "Green",
+                "Blue",
+                "GOBO Spin",
+                "GOBO Select",
+                "Movement Speed"
+            ],
+            "position": {
+                "x": -5.0,
+                "y": 5.0,
+                "z": -6.0
+            },
+            "rotation": {
+                "x": 90.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "invertPan": false,
+            "invertTilt": true,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Mover-Spotlight-5-R",
+            "channel": 157,
+            "universe": 1,
+            "fixtureDefintion": "SpotLight 13CH",
+            "channelNames": [
+                "Pan",
+                "Fine Pan",
+                "Tilt",
+                "Fine Tilt",
+                "Zoom",
+                "Dimmer",
+                "Strobe",
+                "Red",
+                "Green",
+                "Blue",
+                "GOBO Spin",
+                "GOBO Select",
+                "Movement Speed"
+            ],
+            "position": {
+                "x": 5.0,
+                "y": 5.0,
+                "z": -2.0
+            },
+            "rotation": {
+                "x": 90.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "invertPan": false,
+            "invertTilt": true,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Mover-Spotlight-2-R",
+            "channel": 118,
+            "universe": 1,
+            "fixtureDefintion": "SpotLight 13CH",
+            "channelNames": [
+                "Pan",
+                "Fine Pan",
+                "Tilt",
+                "Fine Tilt",
+                "Zoom",
+                "Dimmer",
+                "Strobe",
+                "Red",
+                "Green",
+                "Blue",
+                "GOBO Spin",
+                "GOBO Select",
+                "Movement Speed"
+            ],
+            "position": {
+                "x": 5.0,
+                "y": 5.0,
+                "z": 4.0
+            },
+            "rotation": {
+                "x": 90.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "invertPan": false,
+            "invertTilt": true,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Static-ParLight-L-6",
+            "channel": 234,
+            "universe": 1,
+            "fixtureDefintion": "ParLight 5CH",
+            "channelNames": [
+                "Dimmer",
+                "Red",
+                "Green",
+                "Blue",
+                "Strobe"
+            ],
+            "position": {
+                "x": -10.0,
+                "y": 0.699999988079071,
+                "z": -4.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 74.99999237060547
+            },
+            "invertPan": false,
+            "invertTilt": false,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Laser-R-5",
+            "channel": 445,
+            "universe": 1,
+            "fixtureDefintion": "Laser 13CH",
+            "channelNames": [
+                "Pan",
+                "Tilt",
+                "Length",
+                "Width",
+                "Flatness",
+                "Beam Count",
+                "Spin Speed",
+                "Red",
+                "Green",
+                "Blue",
+                "Dimmer",
+                "Beam Thickness",
+                "Movement Speed"
+            ],
+            "position": {
+                "x": 3.0,
+                "y": 5.0,
+                "z": -2.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "invertPan": false,
+            "invertTilt": false,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Mover-Spotlight-4-R",
+            "channel": 144,
+            "universe": 1,
+            "fixtureDefintion": "SpotLight 13CH",
+            "channelNames": [
+                "Pan",
+                "Fine Pan",
+                "Tilt",
+                "Fine Tilt",
+                "Zoom",
+                "Dimmer",
+                "Strobe",
+                "Red",
+                "Green",
+                "Blue",
+                "GOBO Spin",
+                "GOBO Select",
+                "Movement Speed"
+            ],
+            "position": {
+                "x": 5.0,
+                "y": 5.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 90.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "invertPan": false,
+            "invertTilt": true,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Laser-R-1",
+            "channel": 393,
+            "universe": 1,
+            "fixtureDefintion": "Laser 13CH",
+            "channelNames": [
+                "Pan",
+                "Tilt",
+                "Length",
+                "Width",
+                "Flatness",
+                "Beam Count",
+                "Spin Speed",
+                "Red",
+                "Green",
+                "Blue",
+                "Dimmer",
+                "Beam Thickness",
+                "Movement Speed"
+            ],
+            "position": {
+                "x": 3.0,
+                "y": 5.0,
+                "z": 6.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "invertPan": false,
+            "invertTilt": false,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Mover-Spotlight-8-R",
+            "channel": 196,
+            "universe": 1,
+            "fixtureDefintion": "SpotLight 13CH",
+            "channelNames": [
+                "Pan",
+                "Fine Pan",
+                "Tilt",
+                "Fine Tilt",
+                "Zoom",
+                "Dimmer",
+                "Strobe",
+                "Red",
+                "Green",
+                "Blue",
+                "GOBO Spin",
+                "GOBO Select",
+                "Movement Speed"
+            ],
+            "position": {
+                "x": 5.0,
+                "y": 5.0,
+                "z": -8.0
+            },
+            "rotation": {
+                "x": 90.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "invertPan": false,
+            "invertTilt": true,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Laser-L-1",
+            "channel": 289,
+            "universe": 1,
+            "fixtureDefintion": "Laser 13CH",
+            "channelNames": [
+                "Pan",
+                "Tilt",
+                "Length",
+                "Width",
+                "Flatness",
+                "Beam Count",
+                "Spin Speed",
+                "Red",
+                "Green",
+                "Blue",
+                "Dimmer",
+                "Beam Thickness",
+                "Movement Speed"
+            ],
+            "position": {
+                "x": -3.0,
+                "y": 5.0,
+                "z": 6.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "invertPan": false,
+            "invertTilt": false,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Mover-Spotlight-3-L",
+            "channel": 27,
+            "universe": 1,
+            "fixtureDefintion": "SpotLight 13CH",
+            "channelNames": [
+                "Pan",
+                "Fine Pan",
+                "Tilt",
+                "Fine Tilt",
+                "Zoom",
+                "Dimmer",
+                "Strobe",
+                "Red",
+                "Green",
+                "Blue",
+                "GOBO Spin",
+                "GOBO Select",
+                "Movement Speed"
+            ],
+            "position": {
+                "x": -5.0,
+                "y": 5.0,
+                "z": 2.0
+            },
+            "rotation": {
+                "x": 90.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "invertPan": false,
+            "invertTilt": true,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Mover-Spotlight-5-L",
+            "channel": 53,
+            "universe": 1,
+            "fixtureDefintion": "SpotLight 13CH",
+            "channelNames": [
+                "Pan",
+                "Fine Pan",
+                "Tilt",
+                "Fine Tilt",
+                "Zoom",
+                "Dimmer",
+                "Strobe",
+                "Red",
+                "Green",
+                "Blue",
+                "GOBO Spin",
+                "GOBO Select",
+                "Movement Speed"
+            ],
+            "position": {
+                "x": -5.0,
+                "y": 5.0,
+                "z": -2.0
+            },
+            "rotation": {
+                "x": 90.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "invertPan": false,
+            "invertTilt": true,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Mover-Spotlight-1-R",
+            "channel": 105,
+            "universe": 1,
+            "fixtureDefintion": "SpotLight 13CH",
+            "channelNames": [
+                "Pan",
+                "Fine Pan",
+                "Tilt",
+                "Fine Tilt",
+                "Zoom",
+                "Dimmer",
+                "Strobe",
+                "Red",
+                "Green",
+                "Blue",
+                "GOBO Spin",
+                "GOBO Select",
+                "Movement Speed"
+            ],
+            "position": {
+                "x": 5.0,
+                "y": 5.0,
+                "z": 6.0
+            },
+            "rotation": {
+                "x": 90.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "invertPan": false,
+            "invertTilt": true,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Mover-Spotlight-6-R",
+            "channel": 170,
+            "universe": 1,
+            "fixtureDefintion": "SpotLight 13CH",
+            "channelNames": [
+                "Pan",
+                "Fine Pan",
+                "Tilt",
+                "Fine Tilt",
+                "Zoom",
+                "Dimmer",
+                "Strobe",
+                "Red",
+                "Green",
+                "Blue",
+                "GOBO Spin",
+                "GOBO Select",
+                "Movement Speed"
+            ],
+            "position": {
+                "x": 5.0,
+                "y": 5.0,
+                "z": -4.0
+            },
+            "rotation": {
+                "x": 90.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "invertPan": false,
+            "invertTilt": true,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Mover-Spotlight-6-L",
+            "channel": 66,
+            "universe": 1,
+            "fixtureDefintion": "SpotLight 13CH",
+            "channelNames": [
+                "Pan",
+                "Fine Pan",
+                "Tilt",
+                "Fine Tilt",
+                "Zoom",
+                "Dimmer",
+                "Strobe",
+                "Red",
+                "Green",
+                "Blue",
+                "GOBO Spin",
+                "GOBO Select",
+                "Movement Speed"
+            ],
+            "position": {
+                "x": -5.0,
+                "y": 5.0,
+                "z": -4.0
+            },
+            "rotation": {
+                "x": 90.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "invertPan": false,
+            "invertTilt": true,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Laser-L-2",
+            "channel": 302,
+            "universe": 1,
+            "fixtureDefintion": "Laser 13CH",
+            "channelNames": [
+                "Pan",
+                "Tilt",
+                "Length",
+                "Width",
+                "Flatness",
+                "Beam Count",
+                "Spin Speed",
+                "Red",
+                "Green",
+                "Blue",
+                "Dimmer",
+                "Beam Thickness",
+                "Movement Speed"
+            ],
+            "position": {
+                "x": -3.0,
+                "y": 5.0,
+                "z": 4.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "invertPan": false,
+            "invertTilt": false,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Laser-L-3",
+            "channel": 315,
+            "universe": 1,
+            "fixtureDefintion": "Laser 13CH",
+            "channelNames": [
+                "Pan",
+                "Tilt",
+                "Length",
+                "Width",
+                "Flatness",
+                "Beam Count",
+                "Spin Speed",
+                "Red",
+                "Green",
+                "Blue",
+                "Dimmer",
+                "Beam Thickness",
+                "Movement Speed"
+            ],
+            "position": {
+                "x": -3.0,
+                "y": 5.0,
+                "z": 2.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "invertPan": false,
+            "invertTilt": false,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Static-ParLight-L-8",
+            "channel": 244,
+            "universe": 1,
+            "fixtureDefintion": "ParLight 5CH",
+            "channelNames": [
+                "Dimmer",
+                "Red",
+                "Green",
+                "Blue",
+                "Strobe"
+            ],
+            "position": {
+                "x": -10.0,
+                "y": 0.699999988079071,
+                "z": -8.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 74.99999237060547
+            },
+            "invertPan": false,
+            "invertTilt": false,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Static-ParLight-L-4",
+            "channel": 224,
+            "universe": 1,
+            "fixtureDefintion": "ParLight 5CH",
+            "channelNames": [
+                "Dimmer",
+                "Red",
+                "Green",
+                "Blue",
+                "Strobe"
+            ],
+            "position": {
+                "x": -10.0,
+                "y": 0.699999988079071,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 74.99999237060547
+            },
+            "invertPan": false,
+            "invertTilt": false,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Laser-L-8",
+            "channel": 380,
+            "universe": 1,
+            "fixtureDefintion": "Laser 13CH",
+            "channelNames": [
+                "Pan",
+                "Tilt",
+                "Length",
+                "Width",
+                "Flatness",
+                "Beam Count",
+                "Spin Speed",
+                "Red",
+                "Green",
+                "Blue",
+                "Dimmer",
+                "Beam Thickness",
+                "Movement Speed"
+            ],
+            "position": {
+                "x": -3.0,
+                "y": 5.0,
+                "z": -8.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "invertPan": false,
+            "invertTilt": false,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Static-ParLight-R-2",
+            "channel": 254,
+            "universe": 1,
+            "fixtureDefintion": "ParLight 5CH",
+            "channelNames": [
+                "Dimmer",
+                "Red",
+                "Green",
+                "Blue",
+                "Strobe"
+            ],
+            "position": {
+                "x": 10.0,
+                "y": 0.699999988079071,
+                "z": 4.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 74.99999237060547
+            },
+            "invertPan": false,
+            "invertTilt": false,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Static-ParLight-L-2",
+            "channel": 214,
+            "universe": 1,
+            "fixtureDefintion": "ParLight 5CH",
+            "channelNames": [
+                "Dimmer",
+                "Red",
+                "Green",
+                "Blue",
+                "Strobe"
+            ],
+            "position": {
+                "x": -10.0,
+                "y": 0.699999988079071,
+                "z": 4.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 74.99999237060547
+            },
+            "invertPan": false,
+            "invertTilt": false,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Laser-L-4",
+            "channel": 328,
+            "universe": 1,
+            "fixtureDefintion": "Laser 13CH",
+            "channelNames": [
+                "Pan",
+                "Tilt",
+                "Length",
+                "Width",
+                "Flatness",
+                "Beam Count",
+                "Spin Speed",
+                "Red",
+                "Green",
+                "Blue",
+                "Dimmer",
+                "Beam Thickness",
+                "Movement Speed"
+            ],
+            "position": {
+                "x": -3.0,
+                "y": 5.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "invertPan": false,
+            "invertTilt": false,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Mover-Spotlight-8-L",
+            "channel": 92,
+            "universe": 1,
+            "fixtureDefintion": "SpotLight 13CH",
+            "channelNames": [
+                "Pan",
+                "Fine Pan",
+                "Tilt",
+                "Fine Tilt",
+                "Zoom",
+                "Dimmer",
+                "Strobe",
+                "Red",
+                "Green",
+                "Blue",
+                "GOBO Spin",
+                "GOBO Select",
+                "Movement Speed"
+            ],
+            "position": {
+                "x": -5.0,
+                "y": 5.0,
+                "z": -8.0
+            },
+            "rotation": {
+                "x": 90.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "invertPan": false,
+            "invertTilt": true,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Laser-L-6",
+            "channel": 354,
+            "universe": 1,
+            "fixtureDefintion": "Laser 13CH",
+            "channelNames": [
+                "Pan",
+                "Tilt",
+                "Length",
+                "Width",
+                "Flatness",
+                "Beam Count",
+                "Spin Speed",
+                "Red",
+                "Green",
+                "Blue",
+                "Dimmer",
+                "Beam Thickness",
+                "Movement Speed"
+            ],
+            "position": {
+                "x": -3.0,
+                "y": 5.0,
+                "z": -4.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "invertPan": false,
+            "invertTilt": false,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Static-ParLight-R-3",
+            "channel": 259,
+            "universe": 1,
+            "fixtureDefintion": "ParLight 5CH",
+            "channelNames": [
+                "Dimmer",
+                "Red",
+                "Green",
+                "Blue",
+                "Strobe"
+            ],
+            "position": {
+                "x": 10.0,
+                "y": 0.699999988079071,
+                "z": 2.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 74.99999237060547
+            },
+            "invertPan": false,
+            "invertTilt": false,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Static-ParLight-R-7",
+            "channel": 279,
+            "universe": 1,
+            "fixtureDefintion": "ParLight 5CH",
+            "channelNames": [
+                "Dimmer",
+                "Red",
+                "Green",
+                "Blue",
+                "Strobe"
+            ],
+            "position": {
+                "x": 10.0,
+                "y": 0.699999988079071,
+                "z": -6.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 74.99999237060547
+            },
+            "invertPan": false,
+            "invertTilt": false,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Static-ParLight-R-5",
+            "channel": 269,
+            "universe": 1,
+            "fixtureDefintion": "ParLight 5CH",
+            "channelNames": [
+                "Dimmer",
+                "Red",
+                "Green",
+                "Blue",
+                "Strobe"
+            ],
+            "position": {
+                "x": 10.0,
+                "y": 0.699999988079071,
+                "z": -2.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 74.99999237060547
+            },
+            "invertPan": false,
+            "invertTilt": false,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Laser-R-6",
+            "channel": 458,
+            "universe": 1,
+            "fixtureDefintion": "Laser 13CH",
+            "channelNames": [
+                "Pan",
+                "Tilt",
+                "Length",
+                "Width",
+                "Flatness",
+                "Beam Count",
+                "Spin Speed",
+                "Red",
+                "Green",
+                "Blue",
+                "Dimmer",
+                "Beam Thickness",
+                "Movement Speed"
+            ],
+            "position": {
+                "x": 3.0,
+                "y": 5.0,
+                "z": -4.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "invertPan": false,
+            "invertTilt": false,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Static-ParLight-L-5",
+            "channel": 229,
+            "universe": 1,
+            "fixtureDefintion": "ParLight 5CH",
+            "channelNames": [
+                "Dimmer",
+                "Red",
+                "Green",
+                "Blue",
+                "Strobe"
+            ],
+            "position": {
+                "x": -10.0,
+                "y": 0.699999988079071,
+                "z": -2.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 74.99999237060547
+            },
+            "invertPan": false,
+            "invertTilt": false,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Laser-R-8",
+            "channel": 484,
+            "universe": 1,
+            "fixtureDefintion": "Laser 13CH",
+            "channelNames": [
+                "Pan",
+                "Tilt",
+                "Length",
+                "Width",
+                "Flatness",
+                "Beam Count",
+                "Spin Speed",
+                "Red",
+                "Green",
+                "Blue",
+                "Dimmer",
+                "Beam Thickness",
+                "Movement Speed"
+            ],
+            "position": {
+                "x": 3.0,
+                "y": 5.0,
+                "z": -8.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "invertPan": false,
+            "invertTilt": false,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Laser-L-5",
+            "channel": 341,
+            "universe": 1,
+            "fixtureDefintion": "Laser 13CH",
+            "channelNames": [
+                "Pan",
+                "Tilt",
+                "Length",
+                "Width",
+                "Flatness",
+                "Beam Count",
+                "Spin Speed",
+                "Red",
+                "Green",
+                "Blue",
+                "Dimmer",
+                "Beam Thickness",
+                "Movement Speed"
+            ],
+            "position": {
+                "x": -3.0,
+                "y": 5.0,
+                "z": -2.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "invertPan": false,
+            "invertTilt": false,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Static-ParLight-L-7",
+            "channel": 239,
+            "universe": 1,
+            "fixtureDefintion": "ParLight 5CH",
+            "channelNames": [
+                "Dimmer",
+                "Red",
+                "Green",
+                "Blue",
+                "Strobe"
+            ],
+            "position": {
+                "x": -10.0,
+                "y": 0.699999988079071,
+                "z": -6.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 74.99999237060547
+            },
+            "invertPan": false,
+            "invertTilt": false,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Mover-Spotlight-3-R",
+            "channel": 131,
+            "universe": 1,
+            "fixtureDefintion": "SpotLight 13CH",
+            "channelNames": [
+                "Pan",
+                "Fine Pan",
+                "Tilt",
+                "Fine Tilt",
+                "Zoom",
+                "Dimmer",
+                "Strobe",
+                "Red",
+                "Green",
+                "Blue",
+                "GOBO Spin",
+                "GOBO Select",
+                "Movement Speed"
+            ],
+            "position": {
+                "x": 5.0,
+                "y": 5.0,
+                "z": 2.0
+            },
+            "rotation": {
+                "x": 90.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "invertPan": false,
+            "invertTilt": true,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Mover-Spotlight-1-L",
+            "channel": 1,
+            "universe": 1,
+            "fixtureDefintion": "SpotLight 13CH",
+            "channelNames": [
+                "Pan",
+                "Fine Pan",
+                "Tilt",
+                "Fine Tilt",
+                "Zoom",
+                "Dimmer",
+                "Strobe",
+                "Red",
+                "Green",
+                "Blue",
+                "GOBO Spin",
+                "GOBO Select",
+                "Movement Speed"
+            ],
+            "position": {
+                "x": -5.0,
+                "y": 5.0,
+                "z": 6.0
+            },
+            "rotation": {
+                "x": 90.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "invertPan": false,
+            "invertTilt": true,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Static-ParLight-R-4",
+            "channel": 264,
+            "universe": 1,
+            "fixtureDefintion": "ParLight 5CH",
+            "channelNames": [
+                "Dimmer",
+                "Red",
+                "Green",
+                "Blue",
+                "Strobe"
+            ],
+            "position": {
+                "x": 10.0,
+                "y": 0.699999988079071,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 74.99999237060547
+            },
+            "invertPan": false,
+            "invertTilt": false,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Laser-R-2",
+            "channel": 406,
+            "universe": 1,
+            "fixtureDefintion": "Laser 13CH",
+            "channelNames": [
+                "Pan",
+                "Tilt",
+                "Length",
+                "Width",
+                "Flatness",
+                "Beam Count",
+                "Spin Speed",
+                "Red",
+                "Green",
+                "Blue",
+                "Dimmer",
+                "Beam Thickness",
+                "Movement Speed"
+            ],
+            "position": {
+                "x": 3.0,
+                "y": 5.0,
+                "z": 4.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "invertPan": false,
+            "invertTilt": false,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Static-ParLight-R-8",
+            "channel": 284,
+            "universe": 1,
+            "fixtureDefintion": "ParLight 5CH",
+            "channelNames": [
+                "Dimmer",
+                "Red",
+                "Green",
+                "Blue",
+                "Strobe"
+            ],
+            "position": {
+                "x": 10.0,
+                "y": 0.699999988079071,
+                "z": -8.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 74.99999237060547
+            },
+            "invertPan": false,
+            "invertTilt": false,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Laser-R-4",
+            "channel": 432,
+            "universe": 1,
+            "fixtureDefintion": "Laser 13CH",
+            "channelNames": [
+                "Pan",
+                "Tilt",
+                "Length",
+                "Width",
+                "Flatness",
+                "Beam Count",
+                "Spin Speed",
+                "Red",
+                "Green",
+                "Blue",
+                "Dimmer",
+                "Beam Thickness",
+                "Movement Speed"
+            ],
+            "position": {
+                "x": 3.0,
+                "y": 5.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "invertPan": false,
+            "invertTilt": false,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Mover-Spotlight-2-L",
+            "channel": 14,
+            "universe": 1,
+            "fixtureDefintion": "SpotLight 13CH",
+            "channelNames": [
+                "Pan",
+                "Fine Pan",
+                "Tilt",
+                "Fine Tilt",
+                "Zoom",
+                "Dimmer",
+                "Strobe",
+                "Red",
+                "Green",
+                "Blue",
+                "GOBO Spin",
+                "GOBO Select",
+                "Movement Speed"
+            ],
+            "position": {
+                "x": -5.0,
+                "y": 5.0,
+                "z": 4.0
+            },
+            "rotation": {
+                "x": 90.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "invertPan": false,
+            "invertTilt": true,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Laser-L-7",
+            "channel": 367,
+            "universe": 1,
+            "fixtureDefintion": "Laser 13CH",
+            "channelNames": [
+                "Pan",
+                "Tilt",
+                "Length",
+                "Width",
+                "Flatness",
+                "Beam Count",
+                "Spin Speed",
+                "Red",
+                "Green",
+                "Blue",
+                "Dimmer",
+                "Beam Thickness",
+                "Movement Speed"
+            ],
+            "position": {
+                "x": -3.0,
+                "y": 5.0,
+                "z": -6.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "invertPan": false,
+            "invertTilt": false,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Static-ParLight-L-3",
+            "channel": 219,
+            "universe": 1,
+            "fixtureDefintion": "ParLight 5CH",
+            "channelNames": [
+                "Dimmer",
+                "Red",
+                "Green",
+                "Blue",
+                "Strobe"
+            ],
+            "position": {
+                "x": -10.0,
+                "y": 0.699999988079071,
+                "z": 2.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 74.99999237060547
+            },
+            "invertPan": false,
+            "invertTilt": false,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Static-ParLight-L-1",
+            "channel": 209,
+            "universe": 1,
+            "fixtureDefintion": "ParLight 5CH",
+            "channelNames": [
+                "Dimmer",
+                "Red",
+                "Green",
+                "Blue",
+                "Strobe"
+            ],
+            "position": {
+                "x": -10.0,
+                "y": 0.699999988079071,
+                "z": 6.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 74.99999237060547
+            },
+            "invertPan": false,
+            "invertTilt": false,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Laser-R-7",
+            "channel": 471,
+            "universe": 1,
+            "fixtureDefintion": "Laser 13CH",
+            "channelNames": [
+                "Pan",
+                "Tilt",
+                "Length",
+                "Width",
+                "Flatness",
+                "Beam Count",
+                "Spin Speed",
+                "Red",
+                "Green",
+                "Blue",
+                "Dimmer",
+                "Beam Thickness",
+                "Movement Speed"
+            ],
+            "position": {
+                "x": 3.0,
+                "y": 5.0,
+                "z": -6.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "invertPan": false,
+            "invertTilt": false,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        },
+        {
+            "id": 0,
+            "name": "Static-ParLight-R-6",
+            "channel": 274,
+            "universe": 1,
+            "fixtureDefintion": "ParLight 5CH",
+            "channelNames": [
+                "Dimmer",
+                "Red",
+                "Green",
+                "Blue",
+                "Strobe"
+            ],
+            "position": {
+                "x": 10.0,
+                "y": 0.699999988079071,
+                "z": -4.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 74.99999237060547
+            },
+            "invertPan": false,
+            "invertTilt": false,
+            "panRange": 180.0,
+            "tiltRange": 180.0
+        }
+    ]
+}

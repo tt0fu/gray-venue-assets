@@ -1,0 +1,1987 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57cc0fe2c71aff74ba88fc6cf7e94ec2, type: 3}
+  m_Name: VRSL DMX Patch Data
+  m_EditorClassIdentifier: 
+  targetScene:
+    m_Handle: -1324
+  scenePath: Assets/Scene.unity
+  idStrings:
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-344666422033445244-4656470
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4953424939769980419-111803591
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-10020879085188068530-1434340111
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-10020879085188068530-1068938141
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-10020879085188068530-252242596
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-10020879085188068530-302247728
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-10020879085188068530-534733486
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-344666422033445244-339458279
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4953424939769980419-432888105
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-10020879085188068530-907949188
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4953424939769980419-481794770
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-10020879085188068530-602045522
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4953424939769980419-582523099
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-10020879085188068530-2007180037
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-10020879085188068530-1112143551
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-10020879085188068530-629079607
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-10020879085188068530-191766705
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-10020879085188068530-269757900
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4953424939769980419-758014190
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4953424939769980419-821035758
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-344666422033445244-848011742
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-344666422033445244-901308618
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4953424939769980419-914711507
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-344666422033445244-938238285
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-344666422033445244-1033909198
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4953424939769980419-1086074875
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-10020879085188068530-50327460
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4953424939769980419-1320845097
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-344666422033445244-1325684248
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-344666422033445244-1337851707
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-344666422033445244-1353508352
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4953424939769980419-1433902830
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-344666422033445244-1515335439
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4953424939769980419-1536576803
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4953424939769980419-1564099700
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-344666422033445244-1693754141
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-10020879085188068530-1991058892
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-10020879085188068530-1259986972
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-344666422033445244-1868572904
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4953424939769980419-1874887186
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-344666422033445244-1883891530
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4953424939769980419-1885073510
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-10020879085188068530-1189616240
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4953424939769980419-1924153755
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-344666422033445244-1947554091
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-344666422033445244-1992382754
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4953424939769980419-2100389548
+  - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-344666422033445244-2141251083
+  data:
+  - name: Static-ParLight-R-1
+    position: {x: 10, y: 0.7, z: 6}
+    rotation: {x: 0.60876137, y: 0.7933534, z: -0, w: 0}
+    targetPrefabId: 4656470
+    targetObjectId: 344666422033445244
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 249
+    dmxUniverse: 1
+    fixtureDefintion: 5
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2.9960785, g: 2.9960785, b: 2.9960785, a: 2}
+    invertPan: 0
+    invertTilt: 0
+    isUpsideDown: 0
+    enableAutoSpin: 0
+    enableStrobe: 1
+    tiltOffsetBlue: 0
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - ParLight-Projection-FixtureMesh
+      - ParLight-Projection-ProjectionMesh
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-1937700371103868200-4656470
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-6244784051215824885-4656470
+    coneWidth: 5
+    coneLength: 10
+    maxConeLength: 10
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Laser-R-3
+    position: {x: 3, y: 5, z: 2}
+    rotation: {x: -0, y: 1, z: -0, w: 0}
+    targetPrefabId: 111803591
+    targetObjectId: 4953424939769980419
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 419
+    dmxUniverse: 1
+    fixtureDefintion: 10
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2, g: 2, b: 2, a: 2}
+    invertPan: 0
+    invertTilt: 0
+    isUpsideDown: 0
+    enableAutoSpin: 1
+    enableStrobe: 1
+    tiltOffsetBlue: 0
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - Laser-R-3
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-5894112096263973739-111803591
+    coneWidth: 2.5
+    coneLength: 8.5
+    maxConeLength: 1
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Mover-Spotlight-7-R
+    position: {x: 5, y: 5, z: -6}
+    rotation: {x: 0.5, y: 0.5, z: -0.5, w: 0.5}
+    targetPrefabId: 1434340111
+    targetObjectId: 10020879085188068530
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 183
+    dmxUniverse: 1
+    fixtureDefintion: 0
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2, g: 2, b: 2, a: 2}
+    invertPan: 0
+    invertTilt: 1
+    isUpsideDown: 0
+    enableAutoSpin: 1
+    enableStrobe: 1
+    tiltOffsetBlue: 90
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - MoverLightMesh-LampFixture
+      - MoverLightMesh-ProjectionPassMesh
+      - MoverLightMesh-VolumetricPassMesh
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-8947798883164076621-1434340111
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4329189394194989142-1434340111
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4408414875166786119-1434340111
+    coneWidth: 2.5
+    coneLength: 8.5
+    maxConeLength: 1
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Mover-Spotlight-4-L
+    position: {x: -5, y: 5, z: 0}
+    rotation: {x: 0.5, y: -0.5, z: 0.5, w: 0.5}
+    targetPrefabId: 1068938141
+    targetObjectId: 10020879085188068530
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 40
+    dmxUniverse: 1
+    fixtureDefintion: 0
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2, g: 2, b: 2, a: 2}
+    invertPan: 0
+    invertTilt: 1
+    isUpsideDown: 0
+    enableAutoSpin: 1
+    enableStrobe: 1
+    tiltOffsetBlue: 90
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - MoverLightMesh-LampFixture
+      - MoverLightMesh-ProjectionPassMesh
+      - MoverLightMesh-VolumetricPassMesh
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-8947798883164076621-1068938141
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4329189394194989142-1068938141
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4408414875166786119-1068938141
+    coneWidth: 2.5
+    coneLength: 8.5
+    maxConeLength: 1
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Mover-Spotlight-7-L
+    position: {x: -5, y: 5, z: -6}
+    rotation: {x: 0.5, y: -0.5, z: 0.5, w: 0.5}
+    targetPrefabId: 252242596
+    targetObjectId: 10020879085188068530
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 79
+    dmxUniverse: 1
+    fixtureDefintion: 0
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2, g: 2, b: 2, a: 2}
+    invertPan: 0
+    invertTilt: 1
+    isUpsideDown: 0
+    enableAutoSpin: 1
+    enableStrobe: 1
+    tiltOffsetBlue: 90
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - MoverLightMesh-LampFixture
+      - MoverLightMesh-ProjectionPassMesh
+      - MoverLightMesh-VolumetricPassMesh
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-8947798883164076621-252242596
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4329189394194989142-252242596
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4408414875166786119-252242596
+    coneWidth: 2.5
+    coneLength: 8.5
+    maxConeLength: 1
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Mover-Spotlight-5-R
+    position: {x: 5, y: 5, z: -2}
+    rotation: {x: 0.5, y: 0.5, z: -0.5, w: 0.5}
+    targetPrefabId: 302247728
+    targetObjectId: 10020879085188068530
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 157
+    dmxUniverse: 1
+    fixtureDefintion: 0
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2, g: 2, b: 2, a: 2}
+    invertPan: 0
+    invertTilt: 1
+    isUpsideDown: 0
+    enableAutoSpin: 1
+    enableStrobe: 1
+    tiltOffsetBlue: 90
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - MoverLightMesh-LampFixture
+      - MoverLightMesh-ProjectionPassMesh
+      - MoverLightMesh-VolumetricPassMesh
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-8947798883164076621-302247728
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4329189394194989142-302247728
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4408414875166786119-302247728
+    coneWidth: 2.5
+    coneLength: 8.5
+    maxConeLength: 1
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Mover-Spotlight-2-R
+    position: {x: 5, y: 5, z: 4}
+    rotation: {x: 0.5, y: 0.5, z: -0.5, w: 0.5}
+    targetPrefabId: 534733486
+    targetObjectId: 10020879085188068530
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 118
+    dmxUniverse: 1
+    fixtureDefintion: 0
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2, g: 2, b: 2, a: 2}
+    invertPan: 0
+    invertTilt: 1
+    isUpsideDown: 0
+    enableAutoSpin: 1
+    enableStrobe: 1
+    tiltOffsetBlue: 90
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - MoverLightMesh-LampFixture
+      - MoverLightMesh-ProjectionPassMesh
+      - MoverLightMesh-VolumetricPassMesh
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-8947798883164076621-534733486
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4329189394194989142-534733486
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4408414875166786119-534733486
+    coneWidth: 2.5
+    coneLength: 8.5
+    maxConeLength: 1
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Static-ParLight-L-6
+    position: {x: -10, y: 0.7, z: -4}
+    rotation: {x: -0, y: -0, z: 0.60876137, w: 0.7933534}
+    targetPrefabId: 339458279
+    targetObjectId: 344666422033445244
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 234
+    dmxUniverse: 1
+    fixtureDefintion: 5
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2.9960785, g: 2.9960785, b: 2.9960785, a: 2}
+    invertPan: 0
+    invertTilt: 0
+    isUpsideDown: 0
+    enableAutoSpin: 0
+    enableStrobe: 1
+    tiltOffsetBlue: 0
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - ParLight-Projection-FixtureMesh
+      - ParLight-Projection-ProjectionMesh
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-1937700371103868200-339458279
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-6244784051215824885-339458279
+    coneWidth: 5
+    coneLength: 10
+    maxConeLength: 10
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Laser-R-5
+    position: {x: 3, y: 5, z: -2}
+    rotation: {x: -0, y: 1, z: -0, w: 0}
+    targetPrefabId: 432888105
+    targetObjectId: 4953424939769980419
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 445
+    dmxUniverse: 1
+    fixtureDefintion: 10
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2, g: 2, b: 2, a: 2}
+    invertPan: 0
+    invertTilt: 0
+    isUpsideDown: 0
+    enableAutoSpin: 1
+    enableStrobe: 1
+    tiltOffsetBlue: 0
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - Laser-R-5
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-5894112096263973739-432888105
+    coneWidth: 2.5
+    coneLength: 8.5
+    maxConeLength: 1
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Mover-Spotlight-4-R
+    position: {x: 5, y: 5, z: 0}
+    rotation: {x: 0.5, y: 0.5, z: -0.5, w: 0.5}
+    targetPrefabId: 907949188
+    targetObjectId: 10020879085188068530
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 144
+    dmxUniverse: 1
+    fixtureDefintion: 0
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2, g: 2, b: 2, a: 2}
+    invertPan: 0
+    invertTilt: 1
+    isUpsideDown: 0
+    enableAutoSpin: 1
+    enableStrobe: 1
+    tiltOffsetBlue: 90
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - MoverLightMesh-LampFixture
+      - MoverLightMesh-ProjectionPassMesh
+      - MoverLightMesh-VolumetricPassMesh
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-8947798883164076621-907949188
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4329189394194989142-907949188
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4408414875166786119-907949188
+    coneWidth: 2.5
+    coneLength: 8.5
+    maxConeLength: 1
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Laser-R-1
+    position: {x: 3, y: 5, z: 6}
+    rotation: {x: -0, y: 1, z: -0, w: 0}
+    targetPrefabId: 481794770
+    targetObjectId: 4953424939769980419
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 393
+    dmxUniverse: 1
+    fixtureDefintion: 10
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2, g: 2, b: 2, a: 2}
+    invertPan: 0
+    invertTilt: 0
+    isUpsideDown: 0
+    enableAutoSpin: 1
+    enableStrobe: 1
+    tiltOffsetBlue: 0
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - Laser-R-1
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-5894112096263973739-481794770
+    coneWidth: 2.5
+    coneLength: 8.5
+    maxConeLength: 1
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Mover-Spotlight-8-R
+    position: {x: 5, y: 5, z: -8}
+    rotation: {x: 0.5, y: 0.5, z: -0.5, w: 0.5}
+    targetPrefabId: 602045522
+    targetObjectId: 10020879085188068530
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 196
+    dmxUniverse: 1
+    fixtureDefintion: 0
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2, g: 2, b: 2, a: 2}
+    invertPan: 0
+    invertTilt: 1
+    isUpsideDown: 0
+    enableAutoSpin: 1
+    enableStrobe: 1
+    tiltOffsetBlue: 90
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - MoverLightMesh-LampFixture
+      - MoverLightMesh-ProjectionPassMesh
+      - MoverLightMesh-VolumetricPassMesh
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-8947798883164076621-602045522
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4329189394194989142-602045522
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4408414875166786119-602045522
+    coneWidth: 2.5
+    coneLength: 8.5
+    maxConeLength: 1
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Laser-L-1
+    position: {x: -3, y: 5, z: 6}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    targetPrefabId: 582523099
+    targetObjectId: 4953424939769980419
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 289
+    dmxUniverse: 1
+    fixtureDefintion: 10
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2, g: 2, b: 2, a: 2}
+    invertPan: 0
+    invertTilt: 0
+    isUpsideDown: 0
+    enableAutoSpin: 1
+    enableStrobe: 1
+    tiltOffsetBlue: 0
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - Laser-L-1
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-5894112096263973739-582523099
+    coneWidth: 2.5
+    coneLength: 8.5
+    maxConeLength: 1
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Mover-Spotlight-3-L
+    position: {x: -5, y: 5, z: 2}
+    rotation: {x: 0.5, y: -0.5, z: 0.5, w: 0.5}
+    targetPrefabId: 2007180037
+    targetObjectId: 10020879085188068530
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 27
+    dmxUniverse: 1
+    fixtureDefintion: 0
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2, g: 2, b: 2, a: 2}
+    invertPan: 0
+    invertTilt: 1
+    isUpsideDown: 0
+    enableAutoSpin: 1
+    enableStrobe: 1
+    tiltOffsetBlue: 90
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - MoverLightMesh-LampFixture
+      - MoverLightMesh-ProjectionPassMesh
+      - MoverLightMesh-VolumetricPassMesh
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-8947798883164076621-2007180037
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4329189394194989142-2007180037
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4408414875166786119-2007180037
+    coneWidth: 2.5
+    coneLength: 8.5
+    maxConeLength: 1
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Mover-Spotlight-5-L
+    position: {x: -5, y: 5, z: -2}
+    rotation: {x: 0.5, y: -0.5, z: 0.5, w: 0.5}
+    targetPrefabId: 1112143551
+    targetObjectId: 10020879085188068530
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 53
+    dmxUniverse: 1
+    fixtureDefintion: 0
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2, g: 2, b: 2, a: 2}
+    invertPan: 0
+    invertTilt: 1
+    isUpsideDown: 0
+    enableAutoSpin: 1
+    enableStrobe: 1
+    tiltOffsetBlue: 90
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - MoverLightMesh-LampFixture
+      - MoverLightMesh-ProjectionPassMesh
+      - MoverLightMesh-VolumetricPassMesh
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-8947798883164076621-1112143551
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4329189394194989142-1112143551
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4408414875166786119-1112143551
+    coneWidth: 2.5
+    coneLength: 8.5
+    maxConeLength: 1
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Mover-Spotlight-1-R
+    position: {x: 5, y: 5, z: 6}
+    rotation: {x: 0.5, y: 0.5, z: -0.5, w: 0.5}
+    targetPrefabId: 629079607
+    targetObjectId: 10020879085188068530
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 105
+    dmxUniverse: 1
+    fixtureDefintion: 0
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2, g: 2, b: 2, a: 2}
+    invertPan: 0
+    invertTilt: 1
+    isUpsideDown: 0
+    enableAutoSpin: 1
+    enableStrobe: 1
+    tiltOffsetBlue: 90
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - MoverLightMesh-LampFixture
+      - MoverLightMesh-ProjectionPassMesh
+      - MoverLightMesh-VolumetricPassMesh
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-8947798883164076621-629079607
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4329189394194989142-629079607
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4408414875166786119-629079607
+    coneWidth: 2.5
+    coneLength: 8.5
+    maxConeLength: 1
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Mover-Spotlight-6-R
+    position: {x: 5, y: 5, z: -4}
+    rotation: {x: 0.5, y: 0.5, z: -0.5, w: 0.5}
+    targetPrefabId: 191766705
+    targetObjectId: 10020879085188068530
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 170
+    dmxUniverse: 1
+    fixtureDefintion: 0
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2, g: 2, b: 2, a: 2}
+    invertPan: 0
+    invertTilt: 1
+    isUpsideDown: 0
+    enableAutoSpin: 1
+    enableStrobe: 1
+    tiltOffsetBlue: 90
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - MoverLightMesh-LampFixture
+      - MoverLightMesh-ProjectionPassMesh
+      - MoverLightMesh-VolumetricPassMesh
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-8947798883164076621-191766705
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4329189394194989142-191766705
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4408414875166786119-191766705
+    coneWidth: 2.5
+    coneLength: 8.5
+    maxConeLength: 1
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Mover-Spotlight-6-L
+    position: {x: -5, y: 5, z: -4}
+    rotation: {x: 0.5, y: -0.5, z: 0.5, w: 0.5}
+    targetPrefabId: 269757900
+    targetObjectId: 10020879085188068530
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 66
+    dmxUniverse: 1
+    fixtureDefintion: 0
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2, g: 2, b: 2, a: 2}
+    invertPan: 0
+    invertTilt: 1
+    isUpsideDown: 0
+    enableAutoSpin: 1
+    enableStrobe: 1
+    tiltOffsetBlue: 90
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - MoverLightMesh-LampFixture
+      - MoverLightMesh-ProjectionPassMesh
+      - MoverLightMesh-VolumetricPassMesh
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-8947798883164076621-269757900
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4329189394194989142-269757900
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4408414875166786119-269757900
+    coneWidth: 2.5
+    coneLength: 8.5
+    maxConeLength: 1
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Laser-L-2
+    position: {x: -3, y: 5, z: 4}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    targetPrefabId: 758014190
+    targetObjectId: 4953424939769980419
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 302
+    dmxUniverse: 1
+    fixtureDefintion: 10
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2, g: 2, b: 2, a: 2}
+    invertPan: 0
+    invertTilt: 0
+    isUpsideDown: 0
+    enableAutoSpin: 1
+    enableStrobe: 1
+    tiltOffsetBlue: 0
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - Laser-L-2
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-5894112096263973739-758014190
+    coneWidth: 2.5
+    coneLength: 8.5
+    maxConeLength: 1
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Laser-L-3
+    position: {x: -3, y: 5, z: 2}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    targetPrefabId: 821035758
+    targetObjectId: 4953424939769980419
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 315
+    dmxUniverse: 1
+    fixtureDefintion: 10
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2, g: 2, b: 2, a: 2}
+    invertPan: 0
+    invertTilt: 0
+    isUpsideDown: 0
+    enableAutoSpin: 1
+    enableStrobe: 1
+    tiltOffsetBlue: 0
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - Laser-L-3
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-5894112096263973739-821035758
+    coneWidth: 2.5
+    coneLength: 8.5
+    maxConeLength: 1
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Static-ParLight-L-8
+    position: {x: -10, y: 0.7, z: -8}
+    rotation: {x: -0, y: -0, z: 0.60876137, w: 0.7933534}
+    targetPrefabId: 848011742
+    targetObjectId: 344666422033445244
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 244
+    dmxUniverse: 1
+    fixtureDefintion: 5
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2.9960785, g: 2.9960785, b: 2.9960785, a: 2}
+    invertPan: 0
+    invertTilt: 0
+    isUpsideDown: 0
+    enableAutoSpin: 0
+    enableStrobe: 1
+    tiltOffsetBlue: 0
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - ParLight-Projection-FixtureMesh
+      - ParLight-Projection-ProjectionMesh
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-1937700371103868200-848011742
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-6244784051215824885-848011742
+    coneWidth: 5
+    coneLength: 10
+    maxConeLength: 10
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Static-ParLight-L-4
+    position: {x: -10, y: 0.7, z: 0}
+    rotation: {x: -0, y: -0, z: 0.60876137, w: 0.7933534}
+    targetPrefabId: 901308618
+    targetObjectId: 344666422033445244
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 224
+    dmxUniverse: 1
+    fixtureDefintion: 5
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2.9960785, g: 2.9960785, b: 2.9960785, a: 2}
+    invertPan: 0
+    invertTilt: 0
+    isUpsideDown: 0
+    enableAutoSpin: 0
+    enableStrobe: 1
+    tiltOffsetBlue: 0
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - ParLight-Projection-FixtureMesh
+      - ParLight-Projection-ProjectionMesh
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-1937700371103868200-901308618
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-6244784051215824885-901308618
+    coneWidth: 5
+    coneLength: 10
+    maxConeLength: 10
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Laser-L-8
+    position: {x: -3, y: 5, z: -8}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    targetPrefabId: 914711507
+    targetObjectId: 4953424939769980419
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 380
+    dmxUniverse: 1
+    fixtureDefintion: 10
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2, g: 2, b: 2, a: 2}
+    invertPan: 0
+    invertTilt: 0
+    isUpsideDown: 0
+    enableAutoSpin: 1
+    enableStrobe: 1
+    tiltOffsetBlue: 0
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - Laser-L-8
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-5894112096263973739-914711507
+    coneWidth: 2.5
+    coneLength: 8.5
+    maxConeLength: 1
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Static-ParLight-R-2
+    position: {x: 10, y: 0.7, z: 4}
+    rotation: {x: 0.60876137, y: 0.7933534, z: -0, w: 0}
+    targetPrefabId: 938238285
+    targetObjectId: 344666422033445244
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 254
+    dmxUniverse: 1
+    fixtureDefintion: 5
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2.9960785, g: 2.9960785, b: 2.9960785, a: 2}
+    invertPan: 0
+    invertTilt: 0
+    isUpsideDown: 0
+    enableAutoSpin: 0
+    enableStrobe: 1
+    tiltOffsetBlue: 0
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - ParLight-Projection-FixtureMesh
+      - ParLight-Projection-ProjectionMesh
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-1937700371103868200-938238285
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-6244784051215824885-938238285
+    coneWidth: 5
+    coneLength: 10
+    maxConeLength: 10
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Static-ParLight-L-2
+    position: {x: -10, y: 0.7, z: 4}
+    rotation: {x: -0, y: -0, z: 0.60876137, w: 0.7933534}
+    targetPrefabId: 1033909198
+    targetObjectId: 344666422033445244
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 214
+    dmxUniverse: 1
+    fixtureDefintion: 5
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2.9960785, g: 2.9960785, b: 2.9960785, a: 2}
+    invertPan: 0
+    invertTilt: 0
+    isUpsideDown: 0
+    enableAutoSpin: 0
+    enableStrobe: 1
+    tiltOffsetBlue: 0
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - ParLight-Projection-FixtureMesh
+      - ParLight-Projection-ProjectionMesh
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-1937700371103868200-1033909198
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-6244784051215824885-1033909198
+    coneWidth: 5
+    coneLength: 10
+    maxConeLength: 10
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Laser-L-4
+    position: {x: -3, y: 5, z: 0}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    targetPrefabId: 1086074875
+    targetObjectId: 4953424939769980419
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 328
+    dmxUniverse: 1
+    fixtureDefintion: 10
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2, g: 2, b: 2, a: 2}
+    invertPan: 0
+    invertTilt: 0
+    isUpsideDown: 0
+    enableAutoSpin: 1
+    enableStrobe: 1
+    tiltOffsetBlue: 0
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - Laser-L-4
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-5894112096263973739-1086074875
+    coneWidth: 2.5
+    coneLength: 8.5
+    maxConeLength: 1
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Mover-Spotlight-8-L
+    position: {x: -5, y: 5, z: -8}
+    rotation: {x: 0.5, y: -0.5, z: 0.5, w: 0.5}
+    targetPrefabId: 50327460
+    targetObjectId: 10020879085188068530
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 92
+    dmxUniverse: 1
+    fixtureDefintion: 0
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2, g: 2, b: 2, a: 2}
+    invertPan: 0
+    invertTilt: 1
+    isUpsideDown: 0
+    enableAutoSpin: 1
+    enableStrobe: 1
+    tiltOffsetBlue: 90
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - MoverLightMesh-LampFixture
+      - MoverLightMesh-ProjectionPassMesh
+      - MoverLightMesh-VolumetricPassMesh
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-8947798883164076621-50327460
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4329189394194989142-50327460
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4408414875166786119-50327460
+    coneWidth: 2.5
+    coneLength: 8.5
+    maxConeLength: 1
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Laser-L-6
+    position: {x: -3, y: 5, z: -4}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    targetPrefabId: 1320845097
+    targetObjectId: 4953424939769980419
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 354
+    dmxUniverse: 1
+    fixtureDefintion: 10
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2, g: 2, b: 2, a: 2}
+    invertPan: 0
+    invertTilt: 0
+    isUpsideDown: 0
+    enableAutoSpin: 1
+    enableStrobe: 1
+    tiltOffsetBlue: 0
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - Laser-L-6
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-5894112096263973739-1320845097
+    coneWidth: 2.5
+    coneLength: 8.5
+    maxConeLength: 1
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Static-ParLight-R-3
+    position: {x: 10, y: 0.7, z: 2}
+    rotation: {x: 0.60876137, y: 0.7933534, z: -0, w: 0}
+    targetPrefabId: 1325684248
+    targetObjectId: 344666422033445244
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 259
+    dmxUniverse: 1
+    fixtureDefintion: 5
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2.9960785, g: 2.9960785, b: 2.9960785, a: 2}
+    invertPan: 0
+    invertTilt: 0
+    isUpsideDown: 0
+    enableAutoSpin: 0
+    enableStrobe: 1
+    tiltOffsetBlue: 0
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - ParLight-Projection-FixtureMesh
+      - ParLight-Projection-ProjectionMesh
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-1937700371103868200-1325684248
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-6244784051215824885-1325684248
+    coneWidth: 5
+    coneLength: 10
+    maxConeLength: 10
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Static-ParLight-R-7
+    position: {x: 10, y: 0.7, z: -6}
+    rotation: {x: 0.60876137, y: 0.7933534, z: -0, w: 0}
+    targetPrefabId: 1337851707
+    targetObjectId: 344666422033445244
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 279
+    dmxUniverse: 1
+    fixtureDefintion: 5
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2.9960785, g: 2.9960785, b: 2.9960785, a: 2}
+    invertPan: 0
+    invertTilt: 0
+    isUpsideDown: 0
+    enableAutoSpin: 0
+    enableStrobe: 1
+    tiltOffsetBlue: 0
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - ParLight-Projection-FixtureMesh
+      - ParLight-Projection-ProjectionMesh
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-1937700371103868200-1337851707
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-6244784051215824885-1337851707
+    coneWidth: 5
+    coneLength: 10
+    maxConeLength: 10
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Static-ParLight-R-5
+    position: {x: 10, y: 0.7, z: -2}
+    rotation: {x: 0.60876137, y: 0.7933534, z: -0, w: 0}
+    targetPrefabId: 1353508352
+    targetObjectId: 344666422033445244
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 269
+    dmxUniverse: 1
+    fixtureDefintion: 5
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2.9960785, g: 2.9960785, b: 2.9960785, a: 2}
+    invertPan: 0
+    invertTilt: 0
+    isUpsideDown: 0
+    enableAutoSpin: 0
+    enableStrobe: 1
+    tiltOffsetBlue: 0
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - ParLight-Projection-FixtureMesh
+      - ParLight-Projection-ProjectionMesh
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-1937700371103868200-1353508352
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-6244784051215824885-1353508352
+    coneWidth: 5
+    coneLength: 10
+    maxConeLength: 10
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Laser-R-6
+    position: {x: 3, y: 5, z: -4}
+    rotation: {x: -0, y: 1, z: -0, w: 0}
+    targetPrefabId: 1433902830
+    targetObjectId: 4953424939769980419
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 458
+    dmxUniverse: 1
+    fixtureDefintion: 10
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2, g: 2, b: 2, a: 2}
+    invertPan: 0
+    invertTilt: 0
+    isUpsideDown: 0
+    enableAutoSpin: 1
+    enableStrobe: 1
+    tiltOffsetBlue: 0
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - Laser-R-6
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-5894112096263973739-1433902830
+    coneWidth: 2.5
+    coneLength: 8.5
+    maxConeLength: 1
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Static-ParLight-L-5
+    position: {x: -10, y: 0.7, z: -2}
+    rotation: {x: -0, y: -0, z: 0.60876137, w: 0.7933534}
+    targetPrefabId: 1515335439
+    targetObjectId: 344666422033445244
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 229
+    dmxUniverse: 1
+    fixtureDefintion: 5
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2.9960785, g: 2.9960785, b: 2.9960785, a: 2}
+    invertPan: 0
+    invertTilt: 0
+    isUpsideDown: 0
+    enableAutoSpin: 0
+    enableStrobe: 1
+    tiltOffsetBlue: 0
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - ParLight-Projection-FixtureMesh
+      - ParLight-Projection-ProjectionMesh
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-1937700371103868200-1515335439
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-6244784051215824885-1515335439
+    coneWidth: 5
+    coneLength: 10
+    maxConeLength: 10
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Laser-R-8
+    position: {x: 3, y: 5, z: -8}
+    rotation: {x: -0, y: 1, z: -0, w: 0}
+    targetPrefabId: 1536576803
+    targetObjectId: 4953424939769980419
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 484
+    dmxUniverse: 1
+    fixtureDefintion: 10
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2, g: 2, b: 2, a: 2}
+    invertPan: 0
+    invertTilt: 0
+    isUpsideDown: 0
+    enableAutoSpin: 1
+    enableStrobe: 1
+    tiltOffsetBlue: 0
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - Laser-R-8
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-5894112096263973739-1536576803
+    coneWidth: 2.5
+    coneLength: 8.5
+    maxConeLength: 1
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Laser-L-5
+    position: {x: -3, y: 5, z: -2}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    targetPrefabId: 1564099700
+    targetObjectId: 4953424939769980419
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 341
+    dmxUniverse: 1
+    fixtureDefintion: 10
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2, g: 2, b: 2, a: 2}
+    invertPan: 0
+    invertTilt: 0
+    isUpsideDown: 0
+    enableAutoSpin: 1
+    enableStrobe: 1
+    tiltOffsetBlue: 0
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - Laser-L-5
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-5894112096263973739-1564099700
+    coneWidth: 2.5
+    coneLength: 8.5
+    maxConeLength: 1
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Static-ParLight-L-7
+    position: {x: -10, y: 0.7, z: -6}
+    rotation: {x: -0, y: -0, z: 0.60876137, w: 0.7933534}
+    targetPrefabId: 1693754141
+    targetObjectId: 344666422033445244
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 239
+    dmxUniverse: 1
+    fixtureDefintion: 5
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2.9960785, g: 2.9960785, b: 2.9960785, a: 2}
+    invertPan: 0
+    invertTilt: 0
+    isUpsideDown: 0
+    enableAutoSpin: 0
+    enableStrobe: 1
+    tiltOffsetBlue: 0
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - ParLight-Projection-FixtureMesh
+      - ParLight-Projection-ProjectionMesh
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-1937700371103868200-1693754141
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-6244784051215824885-1693754141
+    coneWidth: 5
+    coneLength: 10
+    maxConeLength: 10
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Mover-Spotlight-3-R
+    position: {x: 5, y: 5, z: 2}
+    rotation: {x: 0.5, y: 0.5, z: -0.5, w: 0.5}
+    targetPrefabId: 1991058892
+    targetObjectId: 10020879085188068530
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 131
+    dmxUniverse: 1
+    fixtureDefintion: 0
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2, g: 2, b: 2, a: 2}
+    invertPan: 0
+    invertTilt: 1
+    isUpsideDown: 0
+    enableAutoSpin: 1
+    enableStrobe: 1
+    tiltOffsetBlue: 90
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - MoverLightMesh-LampFixture
+      - MoverLightMesh-ProjectionPassMesh
+      - MoverLightMesh-VolumetricPassMesh
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-8947798883164076621-1991058892
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4329189394194989142-1991058892
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4408414875166786119-1991058892
+    coneWidth: 2.5
+    coneLength: 8.5
+    maxConeLength: 1
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Mover-Spotlight-1-L
+    position: {x: -5, y: 5, z: 6}
+    rotation: {x: 0.5, y: -0.5, z: 0.5, w: 0.5}
+    targetPrefabId: 1259986972
+    targetObjectId: 10020879085188068530
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 1
+    dmxUniverse: 1
+    fixtureDefintion: 0
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2, g: 2, b: 2, a: 2}
+    invertPan: 0
+    invertTilt: 1
+    isUpsideDown: 0
+    enableAutoSpin: 1
+    enableStrobe: 1
+    tiltOffsetBlue: 90
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - MoverLightMesh-LampFixture
+      - MoverLightMesh-ProjectionPassMesh
+      - MoverLightMesh-VolumetricPassMesh
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-8947798883164076621-1259986972
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4329189394194989142-1259986972
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4408414875166786119-1259986972
+    coneWidth: 2.5
+    coneLength: 8.5
+    maxConeLength: 1
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Static-ParLight-R-4
+    position: {x: 10, y: 0.7, z: 0}
+    rotation: {x: 0.60876137, y: 0.7933534, z: -0, w: 0}
+    targetPrefabId: 1868572904
+    targetObjectId: 344666422033445244
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 264
+    dmxUniverse: 1
+    fixtureDefintion: 5
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2.9960785, g: 2.9960785, b: 2.9960785, a: 2}
+    invertPan: 0
+    invertTilt: 0
+    isUpsideDown: 0
+    enableAutoSpin: 0
+    enableStrobe: 1
+    tiltOffsetBlue: 0
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - ParLight-Projection-FixtureMesh
+      - ParLight-Projection-ProjectionMesh
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-1937700371103868200-1868572904
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-6244784051215824885-1868572904
+    coneWidth: 5
+    coneLength: 10
+    maxConeLength: 10
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Laser-R-2
+    position: {x: 3, y: 5, z: 4}
+    rotation: {x: -0, y: 1, z: -0, w: 0}
+    targetPrefabId: 1874887186
+    targetObjectId: 4953424939769980419
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 406
+    dmxUniverse: 1
+    fixtureDefintion: 10
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2, g: 2, b: 2, a: 2}
+    invertPan: 0
+    invertTilt: 0
+    isUpsideDown: 0
+    enableAutoSpin: 1
+    enableStrobe: 1
+    tiltOffsetBlue: 0
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - Laser-R-2
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-5894112096263973739-1874887186
+    coneWidth: 2.5
+    coneLength: 8.5
+    maxConeLength: 1
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Static-ParLight-R-8
+    position: {x: 10, y: 0.7, z: -8}
+    rotation: {x: 0.60876137, y: 0.7933534, z: -0, w: 0}
+    targetPrefabId: 1883891530
+    targetObjectId: 344666422033445244
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 284
+    dmxUniverse: 1
+    fixtureDefintion: 5
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2.9960785, g: 2.9960785, b: 2.9960785, a: 2}
+    invertPan: 0
+    invertTilt: 0
+    isUpsideDown: 0
+    enableAutoSpin: 0
+    enableStrobe: 1
+    tiltOffsetBlue: 0
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - ParLight-Projection-FixtureMesh
+      - ParLight-Projection-ProjectionMesh
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-1937700371103868200-1883891530
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-6244784051215824885-1883891530
+    coneWidth: 5
+    coneLength: 10
+    maxConeLength: 10
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Laser-R-4
+    position: {x: 3, y: 5, z: 0}
+    rotation: {x: -0, y: 1, z: -0, w: 0}
+    targetPrefabId: 1885073510
+    targetObjectId: 4953424939769980419
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 432
+    dmxUniverse: 1
+    fixtureDefintion: 10
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2, g: 2, b: 2, a: 2}
+    invertPan: 0
+    invertTilt: 0
+    isUpsideDown: 0
+    enableAutoSpin: 1
+    enableStrobe: 1
+    tiltOffsetBlue: 0
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - Laser-R-4
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-5894112096263973739-1885073510
+    coneWidth: 2.5
+    coneLength: 8.5
+    maxConeLength: 1
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Mover-Spotlight-2-L
+    position: {x: -5, y: 5, z: 4}
+    rotation: {x: 0.5, y: -0.5, z: 0.5, w: 0.5}
+    targetPrefabId: 1189616240
+    targetObjectId: 10020879085188068530
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 14
+    dmxUniverse: 1
+    fixtureDefintion: 0
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2, g: 2, b: 2, a: 2}
+    invertPan: 0
+    invertTilt: 1
+    isUpsideDown: 0
+    enableAutoSpin: 1
+    enableStrobe: 1
+    tiltOffsetBlue: 90
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - MoverLightMesh-LampFixture
+      - MoverLightMesh-ProjectionPassMesh
+      - MoverLightMesh-VolumetricPassMesh
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-8947798883164076621-1189616240
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4329189394194989142-1189616240
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-4408414875166786119-1189616240
+    coneWidth: 2.5
+    coneLength: 8.5
+    maxConeLength: 1
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Laser-L-7
+    position: {x: -3, y: 5, z: -6}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    targetPrefabId: 1924153755
+    targetObjectId: 4953424939769980419
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 367
+    dmxUniverse: 1
+    fixtureDefintion: 10
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2, g: 2, b: 2, a: 2}
+    invertPan: 0
+    invertTilt: 0
+    isUpsideDown: 0
+    enableAutoSpin: 1
+    enableStrobe: 1
+    tiltOffsetBlue: 0
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - Laser-L-7
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-5894112096263973739-1924153755
+    coneWidth: 2.5
+    coneLength: 8.5
+    maxConeLength: 1
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Static-ParLight-L-3
+    position: {x: -10, y: 0.7, z: 2}
+    rotation: {x: -0, y: -0, z: 0.60876137, w: 0.7933534}
+    targetPrefabId: 1947554091
+    targetObjectId: 344666422033445244
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 219
+    dmxUniverse: 1
+    fixtureDefintion: 5
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2.9960785, g: 2.9960785, b: 2.9960785, a: 2}
+    invertPan: 0
+    invertTilt: 0
+    isUpsideDown: 0
+    enableAutoSpin: 0
+    enableStrobe: 1
+    tiltOffsetBlue: 0
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - ParLight-Projection-FixtureMesh
+      - ParLight-Projection-ProjectionMesh
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-1937700371103868200-1947554091
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-6244784051215824885-1947554091
+    coneWidth: 5
+    coneLength: 10
+    maxConeLength: 10
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Static-ParLight-L-1
+    position: {x: -10, y: 0.7, z: 6}
+    rotation: {x: -0, y: -0, z: 0.60876137, w: 0.7933534}
+    targetPrefabId: 1992382754
+    targetObjectId: 344666422033445244
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 209
+    dmxUniverse: 1
+    fixtureDefintion: 5
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2.9960785, g: 2.9960785, b: 2.9960785, a: 2}
+    invertPan: 0
+    invertTilt: 0
+    isUpsideDown: 0
+    enableAutoSpin: 0
+    enableStrobe: 1
+    tiltOffsetBlue: 0
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - ParLight-Projection-FixtureMesh
+      - ParLight-Projection-ProjectionMesh
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-1937700371103868200-1992382754
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-6244784051215824885-1992382754
+    coneWidth: 5
+    coneLength: 10
+    maxConeLength: 10
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Laser-R-7
+    position: {x: 3, y: 5, z: -6}
+    rotation: {x: -0, y: 1, z: -0, w: 0}
+    targetPrefabId: 2100389548
+    targetObjectId: 4953424939769980419
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 471
+    dmxUniverse: 1
+    fixtureDefintion: 10
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2, g: 2, b: 2, a: 2}
+    invertPan: 0
+    invertTilt: 0
+    isUpsideDown: 0
+    enableAutoSpin: 1
+    enableStrobe: 1
+    tiltOffsetBlue: 0
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - Laser-R-7
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-5894112096263973739-2100389548
+    coneWidth: 2.5
+    coneLength: 8.5
+    maxConeLength: 1
+    maxMinPan: 180
+    maxMinTilt: -180
+  - name: Static-ParLight-R-6
+    position: {x: 10, y: 0.7, z: -4}
+    rotation: {x: 0.60876137, y: 0.7933534, z: -0, w: 0}
+    targetPrefabId: 2141251083
+    targetObjectId: 344666422033445244
+    assetGUID: d3b81d9007be513448b2083776072c75
+    enableDMXChannels: 1
+    nineUniverseMode: 0
+    fixtureID: 0
+    dmxChannel: 274
+    dmxUniverse: 1
+    fixtureDefintion: 5
+    useLegacySectorMode: 0
+    singleChannelMode: 0
+    sector: 0
+    Channel: 0
+    legacyGoboRange: 0
+    globalIntensity: 1
+    finalIntensity: 1
+    lightColorTint: {r: 2.9960785, g: 2.9960785, b: 2.9960785, a: 2}
+    invertPan: 0
+    invertTilt: 0
+    isUpsideDown: 0
+    enableAutoSpin: 0
+    enableStrobe: 1
+    tiltOffsetBlue: 0
+    panOffsetBlueGreen: 0
+    selectGOBO: 1
+    objRenderers:
+      objRenderers_name:
+      - ParLight-Projection-FixtureMesh
+      - ParLight-Projection-ProjectionMesh
+      objRenderers_GlobalObjectId:
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-1937700371103868200-2141251083
+      - GlobalObjectId_V1-2-d3b81d9007be513448b2083776072c75-6244784051215824885-2141251083
+    coneWidth: 5
+    coneLength: 10
+    maxConeLength: 10
+    maxMinPan: 180
+    maxMinTilt: -180
